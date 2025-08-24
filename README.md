@@ -69,4 +69,4 @@ Allow custom grading scales.
 
 👨‍💻 Author
 
-Developed by Sibaprasad padhi
+Developed by Sibaprasada padhi
